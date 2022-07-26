@@ -1,0 +1,108 @@
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe.config
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.pdb
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.AssemblyReference.cache
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Form1.resources
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Properties.Resources.resources
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.GenerateResource.cache
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.exe
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.pdb
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CopyComplete
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Asio.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Core.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Midi.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Wasapi.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinForms.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinMM.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.pdb
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Drawing.Common.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.dll
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jgrice\source\repos\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.AssemblyReference.cache
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Form1.resources
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Properties.Resources.resources
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.GenerateResource.cache
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.exe
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.pdb
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe.config
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.pdb
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Asio.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Core.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Midi.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Wasapi.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinForms.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinMM.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Drawing.Common.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.dll
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.pdb
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\ScottPlot.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.xml
+C:\Users\James\Downloads\FakeYou Wrapper (1)\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CopyComplete
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe.config
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.exe
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\FakeYou Wrapper.pdb
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Asio.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Core.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Midi.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.Wasapi.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinForms.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.WinMM.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Drawing.Common.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.dll
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\SoxSharp.pdb
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\NAudio.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.AccessControl.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\bin\Debug\System.ValueTuple.xml
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.AssemblyReference.cache
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Form1.resources
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou_Wrapper.Properties.Resources.resources
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.GenerateResource.cache
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.csproj.CopyComplete
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.exe
+C:\Users\James\Downloads\FakeYou Wrapper Release\FakeYou Wrapper\FakeYou Wrapper\obj\Debug\FakeYou Wrapper.pdb
